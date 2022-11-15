@@ -1,0 +1,6 @@
+heightOftheUser=input("What's the height of te user?")
+weightOftheUser= input("What's the weight of the user? ")
+height=float(heightOftheUser)
+weight=int(weightOftheUser)
+bmi=int(weight/height**2)
+print(bmi)
