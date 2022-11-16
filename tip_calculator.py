@@ -1,0 +1,6 @@
+bill=input("How much is the bill? ")
+tip_percentage=input("What percentage of tip would you like to give? ")
+per_person=input("How many person are giving the bill? ")
+tip=int(bill)*(int(tip_percentage)/100)
+tip_per_capita=tip/int(per_person)
+print(f"Everyone of you have to pay {round(tip_per_capita+int(bill)/int(per_person))} $")
