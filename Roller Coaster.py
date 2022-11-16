@@ -12,11 +12,13 @@ if height>=5 :
     elif age <22:
         bill=12
         #print("You have to pay $12")
+    elif age >45 & age<55:
+        bill=0
     else:
         bill=16
         #print("You have to pay adult fees, which is $16 in order to proceed further.")
-    taking_photo = str(input("Whould you like to take some photos? Say yes or no."))
-    if taking_photo=="yes":
+    taking_photo = str(input("Whould you like to take some photos? Say Yes or No."))
+    if taking_photo=="Yes":
         print(f"You have to pay {bill+3}$ in order to proceed further. ")
     else:
         print(f"Now you have to pay {bill}$")
