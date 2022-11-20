@@ -44,3 +44,6 @@ elif step1=="right":
             print("Game Over")
         elif step3=="orange":
             print("Congrats! You got the treasure.")
+
+
+

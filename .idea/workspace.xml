@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f7e6fb3-0b2a-4aa7-9b5e-43b44f1b32da" name="Changes" comment="commit to master">
-      <change afterPath="$PROJECT_DIR$/Who will pay bill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrey.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random.py" beforeDir="false" afterPath="$PROJECT_DIR$/Random.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Treasure_island.py" beforeDir="false" afterPath="$PROJECT_DIR$/Treasure_island.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Who will pay bill.py" beforeDir="false" afterPath="$PROJECT_DIR$/Who will pay bill.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668699592445</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit to master">
+      <created>1668878317396</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668878317396</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

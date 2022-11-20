@@ -1,0 +1,10 @@
+proviences_of_Canada=["Alberta", "British Columbia", "Nova Scotia", "Saskatoon" ]
+print(proviences_of_Canada)
+print(proviences_of_Canada.count("British Columbia"))
+print(" \"count\" can be used to check index:",proviences_of_Canada.append("New Brunswick"))
+print(f"This is added to the last part as an element: {proviences_of_Canada}")
+proviences_of_Canada.extend(["Montreal", "Manitoba"])
+print(f"This is the Extended version:{proviences_of_Canada}")
+print(f"Popped the last element: {proviences_of_Canada.pop()}")
+print(f"\"Clear\" removes all the items of an arrey: {proviences_of_Canada.clear()}  ")
+# print(f"\"count\" can be used to check the index of an element: {proviences_of_Canada.count("Nova Scotia")} ")
