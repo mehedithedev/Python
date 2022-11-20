@@ -18,5 +18,6 @@ selected_row= nested_arrey[vertical_index-1]
 selected_row[horizontal_index-1]="X"
 
 
+
 print(f"Here is the location of your treasure:  \n"
       f"{row1}\n{row2}\n{row3}\n")
