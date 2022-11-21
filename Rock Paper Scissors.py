@@ -1,39 +1,6 @@
 import random
-
 import Random
-
 # Rock Paper Scissors ASCII Art
-
-# Rock
-print("""
-    _______
----'   ____)
-      (_____)
-      (_____)
-      (____)
----.__(___)
-""")
-
-# Paper
-print("""
-     _______
----'    ____)____
-           ______)
-          _______)
-         _______)
----.__________)
-""")
-
-# Scissors
-print("""
-    _______
----'   ____)____
-          ______)
-       __________)
-      (____)
----.__(___)
-""")
-
 
 user_input=int(input("Enter 0 for Rock\n"
                      "1 for Paper\n"
