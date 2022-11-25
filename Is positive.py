@@ -6,3 +6,5 @@ def is_positive(number):
   else:
       return False
 print(is_positive(-1))
+print("big" > "small")
+print(11%5)
