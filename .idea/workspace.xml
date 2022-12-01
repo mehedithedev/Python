@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f7e6fb3-0b2a-4aa7-9b5e-43b44f1b32da" name="Changes" comment="commit to master">
-      <change afterPath="$PROJECT_DIR$/Valid_Username.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_loops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -200,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669356823961</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="commit to master">
+      <created>1669645299580</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1669645299580</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
