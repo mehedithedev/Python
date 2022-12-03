@@ -1,6 +1,7 @@
-heightOftheUser=input("What's the height of te user?")
-weightOftheUser= input("What's the weight of the user? ")
-height=float(heightOftheUser)
-weight=int(weightOftheUser)
-bmi=int(weight/height**2)
-print(bmi)
+def attempts(x):
+    x=1
+    while x<5:
+        print(f"this is attempt no: {x}")
+        x+=1
+    print("done")
+attempts(8)
