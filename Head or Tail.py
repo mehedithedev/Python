@@ -13,4 +13,4 @@ if random_int==1:
 elif random_int==2:
     print("It's Tail!")
 else:
-    print("Alas! There's nothing here for you..")
+    print("Alas! There's nothing here for you. Try again!")
